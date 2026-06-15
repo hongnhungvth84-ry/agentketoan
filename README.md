@@ -1,3 +1,5 @@
+<img width="951" height="635" alt="image" src="https://github.com/user-attachments/assets/84c9d388-0244-4a87-90ea-f9f0711f55e1" />
+
 # 🤖 Agent Kế Toán - Trợ Lý Kế Toán AI Chuyên Nghiệp
 
 Chào mừng bạn đến với kho lưu trữ của **Agent Kế Toán**, một trợ lý AI chuyên sâu về nghiệp vụ kế toán, tính lương và thuế tại Việt Nam, được xây dựng và vận hành trên nền tảng **OpenClaw**.
