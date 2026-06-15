@@ -1,4 +1,5 @@
-<img width="951" height="635" alt="image" src="https://github.com/user-attachments/assets/84c9d388-0244-4a87-90ea-f9f0711f55e1" />
+<img width="916" height="630" alt="image" src="https://github.com/user-attachments/assets/ac9b1188-a1ec-4029-9a14-26d68ab43d13" />
+
 
 # 🤖 Agent Kế Toán - Trợ Lý Kế Toán AI Chuyên Nghiệp
 
