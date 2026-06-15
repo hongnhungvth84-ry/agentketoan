@@ -6,6 +6,7 @@
 Chào mừng bạn đến với kho lưu trữ của **Agent Kế Toán**, một trợ lý AI chuyên sâu về nghiệp vụ kế toán, tính lương và thuế tại Việt Nam, được xây dựng và vận hành trên nền tảng **OpenClaw**.
 
 Agent Kế Toán không chỉ là một chatbot; đây là một thực thể AI được định hình với kiến thức chuyên môn về luật thuế, quy định bảo hiểm và kỹ năng soạn thảo văn bản hành chính, giúp tối ưu hóa quy trình vận hành cho doanh nghiệp và cá nhân.
+
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/d031794c-7bc6-4fea-98ee-2fd747dd7ca7" />
 
 ## ✨ Các Khả Năng Chính
